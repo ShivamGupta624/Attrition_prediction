@@ -1,4 +1,4 @@
-# Employee_Attrition_Prediction
+# Attrition_Prediction
 
 ## Table of content
 
